@@ -1,0 +1,5 @@
+{
+	"name": "tcp-chat",
+	"description": "Simple TCP server as per Smashing Node",
+	"version" : "0.0.1"
+}
